@@ -22,9 +22,8 @@ def main():
         if (x % 2 == 0): continue #skips print statement on even numbers
         print x
 
-    #using enumberate()
+    #using enumerate()
     days = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
 
-
-if __name__ = "__main__":
+if __name__ == "__main__":
     main()
