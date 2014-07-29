@@ -4,11 +4,11 @@
     <list default="true" id="097bdbd6-71a2-42b5-8264-b8448d04abd9" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/caeser.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/caeserCracker.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scope.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transpositionEncrypt.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Python.iml" afterPath="$PROJECT_DIR$/.idea/Python.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Reverse.py" afterPath="$PROJECT_DIR$/Reverse.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scope.py" afterPath="$PROJECT_DIR$/scope.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Python.iws" />
@@ -98,7 +98,7 @@
       <file leaf-file-name="scope.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scope.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="4" selection-start="188" selection-end="188" vertical-scroll-proportion="0.24918567" vertical-offset="0" max-vertical-offset="614">
+            <state line="16" column="1" selection-start="330" selection-end="330" vertical-scroll-proportion="0.519084" vertical-offset="68" max-vertical-offset="527">
               <folding />
             </state>
           </provider>
@@ -187,7 +187,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.transpositionEncrypt">
+  <component name="RunManager" selected="Python.scope">
     <configuration default="false" name="Reverse" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -201,24 +201,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Reverse.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/csv.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -273,6 +255,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/transpositionEncrypt.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="scope" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scope.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -401,18 +401,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.Reverse" />
-      <item index="1" class="java.lang.String" itemvalue="Python.csv" />
-      <item index="2" class="java.lang.String" itemvalue="Python.caeser" />
-      <item index="3" class="java.lang.String" itemvalue="Python.caeserCracker" />
-      <item index="4" class="java.lang.String" itemvalue="Python.transpositionEncrypt" />
+      <item index="1" class="java.lang.String" itemvalue="Python.caeser" />
+      <item index="2" class="java.lang.String" itemvalue="Python.caeserCracker" />
+      <item index="3" class="java.lang.String" itemvalue="Python.transpositionEncrypt" />
+      <item index="4" class="java.lang.String" itemvalue="Python.scope" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.transpositionEncrypt" />
-        <item index="1" class="java.lang.String" itemvalue="Python.caeserCracker" />
-        <item index="2" class="java.lang.String" itemvalue="Python.caeser" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Reverse" />
-        <item index="4" class="java.lang.String" itemvalue="Python.csv" />
+        <item index="0" class="java.lang.String" itemvalue="Python.scope" />
+        <item index="1" class="java.lang.String" itemvalue="Python.transpositionEncrypt" />
+        <item index="2" class="java.lang.String" itemvalue="Python.caeserCracker" />
+        <item index="3" class="java.lang.String" itemvalue="Python.caeser" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Reverse" />
       </list>
     </recent_temporary>
   </component>
@@ -459,7 +459,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3343419" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3343419" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -779,7 +779,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scope.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="4" selection-start="188" selection-end="188" vertical-scroll-proportion="0.24918567" vertical-offset="0" max-vertical-offset="614">
+        <state line="16" column="1" selection-start="330" selection-end="330" vertical-scroll-proportion="0.519084" vertical-offset="68" max-vertical-offset="527">
           <folding />
         </state>
       </provider>
